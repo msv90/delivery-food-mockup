@@ -1,1 +1,1 @@
-# Watch mockup https://msv90.github.io/delivery-food-mockup/
+Watch mockup https://msv90.github.io/delivery-food-mockup/
